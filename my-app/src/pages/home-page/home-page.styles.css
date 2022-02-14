@@ -1,0 +1,9 @@
+.container-body{
+    height: 80vh;
+    overflow-y: scroll;
+    box-sizing: border-box;
+}
+
+.img-short {
+    width: 50%;
+}
